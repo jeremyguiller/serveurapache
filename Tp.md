@@ -199,3 +199,11 @@ notre vm nous permet bien de ping des vm sur le meme reseau
 # 10-IP Virtuelles
 
 ## Question A
+![](img/ensbis.png)
+
+# 11- Configuration du premier serveur virtuel : serveur virtuel par IP
+
+## Question A
+
+
+
